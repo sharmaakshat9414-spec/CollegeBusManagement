@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# Java
+*.class
+*.log
+*.jar
+hs_err_pid*
+
+# OS
+.DS_Store
+Thumbs.db
